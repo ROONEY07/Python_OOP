@@ -1,0 +1,5 @@
+my_typle = (10,20,30,40)
+print(my_typle[1:3])
+print(my_typle[-3:-1])
+print(my_typle[-3:])
+print(my_typle[::-2])
